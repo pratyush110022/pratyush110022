@@ -1,4 +1,4 @@
-[![MasterHead](https://www.rurutek.com/assets/img/software-engineer.gif)](https://rishavchanda.io)
+[![MasterHead](https://images.shiksha.com/mediadata/shikshaOnline/mailers/2021/naukri-learning/oct/28oct/What-is-Data-Analysis.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pratyush Das</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
@@ -46,5 +46,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyush110022&show_icons=true&locale=en" alt="pratyush110022" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush110022&" alt="pratyush110022" /></p>
-
-
