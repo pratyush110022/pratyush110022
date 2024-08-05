@@ -1,4 +1,3 @@
-[![MasterHead](https://www.idashboards.com/wp-content/uploads/2023/05/Grounded-Theory-of-Analysis-1-e1541166841830.jpg)]
 <h1 align="center">Hi 👋, I'm Pratyush Das</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
@@ -10,6 +9,7 @@
 - 🔭 I’m currently working on **AtliQ BI360**
 
 - 📫 How to reach me **pdasgeology@gmail.com**
+- 📞 How to reach me **+91-7008766223**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
