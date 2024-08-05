@@ -1,7 +1,7 @@
-[![MasterHead](https://www.rurutek.com/assets/img/software-engineer.gif)](https://rishavchanda.io)
+[![MasterHead]([https://www.rurutek.com/assets/img/software-engineer.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Fgradient-data-analysis-facebook-cover-template_54167025.htm&psig=AOvVaw2s8s5JLVyJoJCK0Ny6K9Gt&ust=1722963459512000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjetpyp3ocDFQAAAAAdAAAAABAE))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pratyush Das</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fdata-analytics-animation--311381761730704419%2F&psig=AOvVaw32-tokCYRN1m5_8UlROgJf&ust=1722961535323000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODR4Iai3ocDFQAAAAAdAAAAABAZ">
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush110022&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush110022" /> </p>
 
