@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/pratyuzz_ttpl" target="blank"><img src="https://img.shields.io/twitter/follow/pratyuzz_ttpl?logo=twitter&style=for-the-badge" alt="pratyuzz_ttpl" /></a> </p>
 
 - 🔭 I’m currently working on **AtliQ BI360**
-- ![image](https://github.com/user-attachments/assets/ff734b4a-c191-4fa1-88ff-dcd1e86bb22e) My Portfolio **[Link](https://codebasics.io/portfolio/Pratyush-Das)**
+- 🌐 My Portfolio **[Link](https://codebasics.io/portfolio/Pratyush-Das)**
 - 📫 How to reach me **pdasgeology@gmail.com**
 - 📞 How to reach me **+91-7008766223**
 
