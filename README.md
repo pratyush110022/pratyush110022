@@ -4,10 +4,10 @@
 
 <h1 align="center">Hi, I'm Pratyush Das 👋</h1>
 
-<h3 align="center">Geospatial Data Analyst · Location Intelligence · Python Automation · GeoAI</h3>
+<h3 align="center">GIS & Location Intelligence · HERE Technologies · Python Automation · GeoAI</h3>
 
 <p align="center">
-  I turn location and business data into useful intelligence — from automated POI data pipelines and geospatial applications to machine-learning experiments and business dashboards.
+  I’m a GIS and location-data professional with 8+ years of experience, currently working at HERE Technologies. I turn location and business data into useful intelligence — from POI data quality and automated data pipelines to geospatial applications, machine-learning experiments, and business dashboards.
 </p>
 
 <p align="center">
