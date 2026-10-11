@@ -137,6 +137,10 @@ I focus on the complete workflow, not just the script: understand the source, de
 <p align="center">
   <a href="mailto:pdasgeology@gmail.com">✉️ <strong>Email</strong></a>
   &nbsp; · &nbsp;
+  <a href="tel:+917008766223">📞 <strong>+91 7008766223</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://wa.me/917008766223">💬 <strong>WhatsApp</strong></a>
+  &nbsp; · &nbsp;
   <a href="https://codebasics.io/portfolio/Pratyush-Das">🗂️ <strong>Codebasics Portfolio</strong></a>
   &nbsp; · &nbsp;
   <a href="https://github.com/pratyush110022">💻 <strong>GitHub Profile</strong></a>
