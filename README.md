@@ -38,7 +38,8 @@ My work sits at the intersection of **GIS, data engineering, automation, and ana
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL%20%2F%20PostGIS-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL and PostGIS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostGIS" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
@@ -133,10 +134,12 @@ I focus on the complete workflow, not just the script: understand the source, de
 
 ## 🤝 Connect
 
-<p>
-  <a href="mailto:pdasgeology@gmail.com"><img src="https://img.shields.io/badge/Email-pdasgeology%40gmail.com-BB001B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Pratyush" /></a>
-  <a href="https://codebasics.io/portfolio/Pratyush-Das"><img src="https://img.shields.io/badge/Portfolio-Codebasics-0F766E?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Codebasics portfolio" /></a>
-  <a href="https://github.com/pratyush110022"><img src="https://img.shields.io/badge/GitHub-pratyush110022-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+<p align="center">
+  <a href="mailto:pdasgeology@gmail.com">✉️ <strong>Email</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://codebasics.io/portfolio/Pratyush-Das">🗂️ <strong>Codebasics Portfolio</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/pratyush110022">💻 <strong>GitHub Profile</strong></a>
 </p>
 
 <p><sub>Repository examples are shared for demonstration and learning. Scraper availability and coverage depend on source-site behavior, API access, and applicable permissions. Sample datasets marked synthetic are illustrative and should not be treated as real-world records.</sub></p>
