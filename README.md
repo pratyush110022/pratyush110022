@@ -1,48 +1,117 @@
-<h1 align="center">Hi 👋, I'm Pratyush Das</h1>
-<h3 align="center">A passionate Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
+# Hi 👋, I'm Pratyush Das
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush110022&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush110022" /> </p>
+<h3 align="center">GIS & Geospatial Data Analyst | Python | SQL | GeoAI | Data Analytics</h3>
 
-<p align="left"> <a href="https://twitter.com/pratyuzz_ttpl" target="blank"><img src="https://img.shields.io/twitter/follow/pratyuzz_ttpl?logo=twitter&style=for-the-badge" alt="pratyuzz_ttpl" /></a> </p>
+<img align="right" alt="Coding" width="360" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
-- 🔭 I’m currently working on **AtliQ BI360**
-- 🌐 My Portfolio **[Link](https://codebasics.io/portfolio/Pratyush-Das)**
-- 📫 How to reach me **pdasgeology@gmail.com**
-- 📞 How to reach me **+91-7008766223**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pratyuzz_ttpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratyuzz_ttpl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pratyush-das-92182031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyush-das-92182031" height="30" width="40" /></a>
-<a href="https://fb.com/pratuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pratuzz" height="30" width="40" /></a>
-<a href="https://instagram.com/pratyuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratyuzz" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=pratyush110022&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush110022" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 👨‍💻 About Me
+
+- 🌍 GIS and Geospatial Data Analytics professional at **HERE Technologies**
+- 📍 Working on **POI Data Management, Location Intelligence, and Geospatial Data Quality**
+- 🐍 Using Python for data processing, automation, web scraping, and analytics
+- 🗄️ Working with SQL, PostgreSQL, MySQL, Trino, and AWS Athena
+- 🗺️ Geospatial tools: ArcGIS Pro, QGIS, and FME Workbench
+- 🤖 Exploring GeoAI, Machine Learning, Generative AI, LLMs, RAG, and AI agents
+- 📊 Interested in Power BI, data visualization, and business intelligence
+- 🚗 Building **GeoPilot AI**, an AI-powered EV trip-planning project
+- 🌐 Portfolio: [Codebasics Portfolio](https://codebasics.io/portfolio/Pratyush-Das)
+- 📫 Email: **pdasgeology@gmail.com**
+- 📞 Phone: **+91-7008766223**
+
+### 🛠️ Languages, Tools & Technologies
+
+**Programming & Data Analytics**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" alt="Python, MySQL, PostgreSQL" />
+</p>
+
+**GIS & Geospatial Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
+  <br>
+  ArcGIS Pro • QGIS • FME Workbench • POI Data Management • Spatial Analysis • Geospatial ETL • Data Quality Assurance
+</p>
+
+**AI, Machine Learning & GeoAI**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="TensorFlow and Scikit-learn" />
+  <br>
+  Generative AI • Large Language Models • RAG • Vector Embeddings • AI Agents • Place Category Prediction
+</p>
+
+**Automation & Data Collection**
+
+<p>
+  Python • Pandas • NumPy • Selenium • Playwright • BeautifulSoup • REST APIs
+</p>
+
+**Cloud & Data Processing**
+
+<p>
+  AWS Athena • AWS Glue • Amazon EMR • AWS Step Functions • Trino
+</p>
+
+**Business Intelligence**
+
+<p>
+  Power BI • DAX • Excel
+</p>
+
+### 🚀 Featured Projects
+
+- 📊 [SQL Project – Consumer Goods Insights](https://github.com/pratyush110022/SQL-Project-Consumer-Goods-Insights)  
+  Business insights and data analysis using SQL.
+
+- 💰 [Sales and Finance Analysis – AtliQ](https://github.com/pratyush110022/Sales-and-Finance-Analysis-Project-Atliq-)  
+  Sales and financial performance analysis.
+
+- 📈 [AtliQ BI360](https://github.com/pratyush110022/AtliQ_BI360)  
+  Business intelligence and dashboarding.
+
+- 🤖 [Twitter Sentiment Analysis](https://github.com/pratyush110022/sentiment-analysis-twitter-dataset)  
+  Sentiment analysis using Python and machine learning.
+
+- 🗺️ **GeoPilot AI – EV Trip Planner**  
+  Exploring AI-assisted EV trip planning with geospatial data, OpenStreetMap, routing APIs, and interactive maps.
+
+### 🤝 Connect With Me
+
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <a href="https://twitter.com/pratyuzz_ttpl" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
   </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a> 
+  <a href="https://linkedin.com/in/pratyush-das-92182031" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://fb.com/pratuzz" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/pratyuzz" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyush110022&show_icons=true&locale=en&layout=compact" alt="pratyush110022" /></p>
+### 📈 GitHub Statistics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyush110022&show_icons=true&locale=en" alt="pratyush110022" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyush110022&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush110022&" alt="pratyush110022" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyush110022&show_icons=true&locale=en" alt="GitHub Statistics" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush110022" alt="GitHub Streak" />
+</p>
+
+---
+
+*Building at the intersection of geospatial technology, data analytics, automation, and artificial intelligence.*
